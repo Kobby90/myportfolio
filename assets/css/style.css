@@ -1107,6 +1107,7 @@ body {
 
 .pitch-video .row {
   margin-top: 30px;
+  height:fit-content;
 }
 
 .pitch-video .col-lg-4 {
