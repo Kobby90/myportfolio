@@ -1083,7 +1083,79 @@ body {
   .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
     background-color: #18d26e;
   }
-  
+ /*--------------------------------------------------------------
+  # Pitch Video
+  --------------------------------------------------------------*/ 
+  .pitch-video .container {
+  padding: 80px 0;
+  background: #f7f7f7;
+  position: relative;
+  overflow: hidden;
+}
+
+.pitch-video .section-title h2 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #333;
+}
+
+.pitch-video .section-title p {
+  margin-top: 5px;
+  font-size: 18px;
+  color: #777;
+}
+
+.pitch-video .row {
+  margin-top: 30px;
+}
+
+.pitch-video .col-lg-4 {
+  position: relative;
+  overflow: hidden;
+}
+
+.pitch-video .img-fluid {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Uncomment the following code if you decide to use the embedded video
+.pitch-video .col-lg-8 {
+  position: relative;
+  overflow: hidden;
+}
+
+.pitch-video .embed-responsive {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio 
+}
+
+.pitch-video .embed-responsive-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+*/
+
+/* Additional styles for embedded video link */
+.pitch-video .mt-3 a {
+  display: inline-block;
+  font-size: 18px;
+  margin-top: 10px;
+  color: #18d26e;
+  transition: color 0.3s;
+}
+
+.pitch-video .mt-3 a:hover {
+  color: #149d4e;
+}
+
+
   /*--------------------------------------------------------------
   # Contact
   --------------------------------------------------------------*/
