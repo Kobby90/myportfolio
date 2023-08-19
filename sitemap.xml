@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -9,19 +9,18 @@
 
 <url>
   <loc>https://kobby90.github.io/myportfolio/</loc>
-  <lastmod>2023-07-03T19:25:32+00:00</lastmod>
+  <lastmod>2023-08-13T18:11:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://kobby90.github.io/myportfolio/index.html</loc>
-  <lastmod>2023-07-03T19:25:32+00:00</lastmod>
+  <lastmod>2023-08-13T18:11:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kobby90.github.io/myportfolio/portfolio-details.html</loc>
-  <lastmod>2023-07-03T19:25:32+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2023-08-13T18:11:32+00:00</lastmod>
+  <priority>0.5</priority>
 </url>
-
 
 </urlset>
