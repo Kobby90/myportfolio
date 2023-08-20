@@ -711,7 +711,7 @@ body {
     color: #ffffff;
   }
 
-  .resume .text-center button[type=submit] {
+  .resume .text-center a button[type=button] {
     background: #18d26e;
     border: 0;
     padding: 10px 30px;
@@ -720,7 +720,7 @@ body {
     border-radius: 4px;
   }
   
-  .resume .text-center button[type=submit]:hover {
+  .resume .text-center a button[type=button]:hover {
     background: #15bb62;
   }
   
