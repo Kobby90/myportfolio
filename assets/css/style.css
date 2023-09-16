@@ -738,7 +738,7 @@ body {
   }
 
   .services .thumbnail {
-    width: calc(50% - 10px); /* Adjust the width to account for gap and padding */
+    width: calc(45% - 10px); /* Adjust the width to account for gap and padding */
     box-sizing: border-box;
     cursor: pointer;
     position: relative; /* Set the position of the container to relative */
